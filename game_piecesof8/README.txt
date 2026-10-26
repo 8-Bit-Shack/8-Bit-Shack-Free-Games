@@ -23,7 +23,7 @@ named NAME#TTAAAA).
 
 ATTRIBUTION
 -----------
-  * Published by 8-Bit Shack.
+  * Written and programmed by Daniel Henderson.
   * SPRITEMAKER sprite compiler and SPRITEDRAW sprite routine: Sellam Abraham.
 
 THIRD-PARTY SOFTWARE / MATERIAL

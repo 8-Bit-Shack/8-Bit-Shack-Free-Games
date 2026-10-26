@@ -22,24 +22,27 @@ FILES
 Ringoban1.5-final.dsk (ProDOS); disk_contents/ (every file from the disk
 image, named NAME#TTAAAA). Documents: Tech-Ringoban-Notes.pdf (technical
 notes), disk sleeve ringoban.pdf. Screenshots: ringoban1-6.jpg and label.png.
-The Applesoft source is not on the disk (compiled version), so there is no
-BASIC listing.
+The disk holds the compiled version only (Beagle Compiler output is not
+listable), so there is no BASIC listing.
 
 ATTRIBUTION
 -----------
-  * "Ringoban" by Mike Beaumont (copyright Mike Beaumont).
+  * "Ringoban" by Mike Beaumont, 2021 (copyright Mike Beaumont).
+  * Ported by Daniel Henderson.
   * Original "Sokoban": Hiroyuki Imabayashi (written 1981, published by
     Thinking Rabbit in 1982).
-  * Compiled with Beagle Compiler by Alan Bird, released as freeware
-    (FREEWARE.NOTICE on the disk).
+  * Compiled with Beagle Compiler by Alan Bird (Beagle Bros, 1986), released
+    as freeware (FREEWARE.NOTICE on the disk).
   * Thanks in the technical notes to Daniel Henderson (promotion), Bill
     Martens (Call-A.P.P.L.E.), and the members of CALL -151, BASIC Programming
     Language and Sokoban for encouragement and comments.
 
 THIRD-PARTY SOFTWARE / MATERIAL
 -------------------------------
-  * Beagle Compiler (COMPILER.SYSTEM): Alan Bird, freeware. "Alan Bird as
-    Copyright holder, hereby releases Beagle Compiler to Freeware status."
+  * Beagle Compiler (COMPILER.SYSTEM runs the compiled programs): Alan Bird,
+    freeware. "Alan Bird as Copyright holder, hereby releases Beagle Compiler
+    to Freeware status." Manual: https://archive.org/details/Beagle_Bros-
+    Beagle_Compiler
   * Apple ProDOS operating-system files on the disk image belong to Apple
     Computer, Inc.
 

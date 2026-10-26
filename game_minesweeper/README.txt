@@ -33,8 +33,9 @@ ATTRIBUTION
 
 THIRD-PARTY SOFTWARE / MATERIAL
 -------------------------------
-  * RUNTIME (with the .OBJ files): third-party Applesoft compiler runtime
-    library used by the compiled version of the program.
+  * Microsoft TASC (The Applesoft Compiler, 1981): the .OBJ files are compiled
+    output and RUNTIME is the TASC runtime library. The original Applesoft
+    source is in source/.
   * Apple DOS 3.3 operating-system files on the disk image belong to Apple
     Computer, Inc.
 

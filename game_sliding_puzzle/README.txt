@@ -34,8 +34,9 @@ THIRD-PARTY SOFTWARE / MATERIAL
   * The Grinch and Han Solo are characters owned by their respective rights
     holders (Dr. Seuss Enterprises and Lucasfilm); no source material from
     them is included.
-  * RUNTIME (with the .OBJ files): third-party Applesoft compiler runtime
-    library used by the compiled version of the program.
+  * Microsoft TASC (The Applesoft Compiler, 1981): the .OBJ files are compiled
+    output and RUNTIME is the TASC runtime library. The original Applesoft
+    source is in source/.
   * Apple DOS 3.3 operating-system files on the disk image belong to Apple
     Computer, Inc.
 

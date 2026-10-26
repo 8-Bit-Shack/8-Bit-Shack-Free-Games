@@ -23,8 +23,9 @@ or hand-written 6502 assembly, so there are no source listings.
 
 ATTRIBUTION
 -----------
-  * "Sean's Garage Giveaway" by David Schmenk, written in PLASMA for the
-    PLEIADES environment, using the Double Hi-Res Tool Kit.
+  * "Sean's Garage Giveaway": concept by Javier Rivera, programmed by David
+    Schmenk in PLASMA for the PLEIADES environment, using the Double Hi-Res
+    Tool Kit.
   * Game assets: 8-Bit Shack.
   * The game project is licensed under the GNU General Public License v3 (see
     its LICENSE file).
