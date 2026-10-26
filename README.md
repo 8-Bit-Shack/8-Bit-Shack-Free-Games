@@ -17,6 +17,7 @@ All titles are available to download and enjoy for free.
 | **Pieces of Eight** | Pirate-themed game: arrow keys to move, space bar to fire, collect the loot. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_piecesof8.zip) |
 | **Sean's Garage Giveaway** | Grab everything from Sean's garage as fast as you can in this Double Hi-Res game (demo). | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_sgg_demo.zip) |
 | **Sliding Puzzle** | Lo-res sliding-picture puzzle with five pictures. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_sliding_puzzle.zip) |
+| **Witch Trial** | Double Lo-Res adventure game, version 2.0, with MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_witch_trial.zip) |
 
 ## Downloading & Using the Games
 
