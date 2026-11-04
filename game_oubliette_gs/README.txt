@@ -12,13 +12,10 @@ FOLDER     : game_oubliette_gs
 
 ABOUT
 -----
-Escape a dungeon of seven cells, one careful step at a time. Each key press
-moves you exactly one cell, there is no clock and nothing chases you; the only
-danger is your own next step. Every level has a trick of its own: doors that
-move you, keys, locks, hidden traps. This is the Apple IIgs version of Dan
-Henderson's Oubliette, rebuilt from the ground up in 65816 assembly with new
-320 x 200 Super Hi-Res art and Ensoniq sound. It has the same seven levels,
-maps and rules as the original. Requires an Apple IIgs (ROM 01 or ROM 3) with
+Oubliette IIgs has all the fun of the original but with 16 bit graphics,
+sound effects and intro music. 7 levels of puzzling madness. Use your brain or
+go insane! Your coffee break will disappear quicker than the next secret door!
+Requires an Apple IIgs (ROM 01 or ROM 3) with
 at least 512K, or an emulator such as MAME set up as an Apple IIgs.
 
 FILES
