@@ -15,8 +15,8 @@ ABOUT
 Oubliette IIgs has all the fun of the original but with 16 bit graphics,
 sound effects and intro music. 7 levels of puzzling madness. Use your brain or
 go insane! Your coffee break will disappear quicker than the next secret door!
-Requires an Apple IIgs (ROM 01 or ROM 3) with
-at least 512K, or an emulator such as MAME set up as an Apple IIgs.
+Requires an Apple IIgs (ROM 01 or ROM 3) with at least 512K, or an emulator
+such as MAME set up as an Apple IIgs.
 
 FILES
 -----
