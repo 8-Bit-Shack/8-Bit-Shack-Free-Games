@@ -10,13 +10,18 @@ All titles are available to download and enjoy for free.
 
 | Title | Description | Download |
 |---|---|---|
+| **Apple Explosion** | Minesweeper-style game: uncover the grid and mark the apples for detonation. Music and sound effects. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_apple_explosion.zip) |
 | **Mad Max** | Hi-res maze game: collect all the bones on each level while avoiding the enemies. Keyboard and joystick versions. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_mad_max.zip) |
 | **Mad Max GS** | Apple IIgs version of Mad Max with improved graphics, a sound track and sound effects, but the same puzzles. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_mad_max_gs.zip) |
 | **Mined Out** | Navigate the minefields from bottom to top. Apple II version of the classic game, with MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_mined_out.zip) |
 | **Minesweeper** | Double Lo-Res Minesweeper for the Apple //e (128K), standard and compiled disks. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_minesweeper.zip) |
 | **MultiDrop** | Deliver items to houses against the clock. Easy and Hard disks. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_multidrop.zip) |
+| **Oubliette** | Puzzle game: escape each dungeon using a sequence of doors and keys. Keys are configurable. Sound effects by Tom Porter. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_oubliette.zip) |
+| **Oubliette 2021** | Sequel "Adlington's Revenge": step on pressure pads to open and close doors and rescue the princess. Two-sided disk with a full MockingBoard soundtrack. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_oubliette_2021.zip) |
+| **Oubliette 4 (v4.2)** | Oubliette 4: dungeon puzzles with a Greasy Graphics splash screen and a key menu. Includes the level and sprite makers. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_oubliette_v4.2.zip) |
 | **Oubliette GS** | Oubliette IIgs has all the fun of the original but with 16 bit graphics, sound effects and intro music. 7 levels of puzzling madness. Use your brain or go insane! Your coffee break will disappear quicker than the next secret door! | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_oubliette_gs.zip) |
 | **Pieces of Eight** | Pirate-themed game: arrow keys to move, space bar to fire, collect the loot. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_piecesof8.zip) |
+| **Planet Invasion** | Defender-style low-resolution shooter: shoot the UFO, shoot the fuel rockets and use your smart bombs. Keyboard or joystick. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_planet_invasion.zip) |
 | **Sean's Garage Giveaway** | Grab everything from Sean's garage as fast as you can in this Double Hi-Res game (demo). | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_sgg_demo.zip) |
 | **Sliding Puzzle** | Lo-res sliding-picture puzzle with five pictures. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_sliding_puzzle.zip) |
 | **Witch Trial** | Double Lo-Res adventure game, version 2.0, with MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_witch_trial.zip) |
