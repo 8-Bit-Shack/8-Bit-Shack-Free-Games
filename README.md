@@ -11,6 +11,7 @@ All titles are available to download and enjoy for free.
 | Title | Description | Download |
 |---|---|---|
 | **Mad Max** | Hi-res maze game: collect all the bones on each level while avoiding the enemies. Keyboard and joystick versions. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_mad_max.zip) |
+| **Mad Max GS** | Apple IIgs version of Mad Max with improved graphics, a sound track and sound effects, but the same puzzles. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_mad_max_gs.zip) |
 | **Mined Out** | Navigate the minefields from bottom to top. Apple II version of the classic game, with MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_mined_out.zip) |
 | **Minesweeper** | Double Lo-Res Minesweeper for the Apple //e (128K), standard and compiled disks. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_minesweeper.zip) |
 | **MultiDrop** | Deliver items to houses against the clock. Easy and Hard disks. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Free-Games/releases/latest/download/game_multidrop.zip) |
