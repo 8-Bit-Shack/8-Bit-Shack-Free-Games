@@ -25,16 +25,18 @@ On an Apple IIgs you may need to turn on Alternate Display Mode.
 
 FILES
 -----
-Pudding.po (140K DOS 3.3 disk image, 5.25"; the .po extension is the original
-file name); Pudding for the Apple II.pdf (the game manual); Pudding.png (title
-banner); disk_contents/ (every file listed in the disk catalog, named
-NAME#TTAAAA with type and address in hex); source/ (see the note there). This
-disk uses a custom layout: the catalog chain is cut short and most files have
-no valid track/sector list, so a normal DOS 3.3 tool shows only seven of the
-18 files. They were recovered by reading the catalog sectors directly. Files
-without a track/sector list are saved as raw sector runs (type $06, address
-$0000) because the disk does not record where the game loads them; HELLO is
-catalog type A but holds machine code, not BASIC.
+Pudding.po (140K DOS 3.3 disk image, 5.25"; sector order is ProDOS order,
+hence the .po extension); Pudding for the Apple II.pdf (the game manual);
+Pudding.png (title banner); source/ (see below); disk_contents/ (every file
+from the disk image, named NAME#TTAAAA with type and load address in hex).
+Inside source/: the HELLO greeting program as Applesoft (.bas.txt), the
+machine-code files GAME and LASER as Merlin 6502 source (.s), and the five
+full-screen double lo-res pictures (title, three scenes and the pause screen)
+converted to PNG. GAME is loaded with BRUN GAME,A$5000 by HELLO, so it is
+disassembled at $5000 although its file header says $2000. Only part of GAME
+is code; the rest (tables, text, sprite and level data) is shown as data. The
+sprite files (CROSS, FIRE, PUDDING, EXPLOSION, GINGER, TURKEY, CANE,
+CHAMPAGNE) and SONG are data and have no source.
 
 ATTRIBUTION
 -----------
